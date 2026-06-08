@@ -2,7 +2,7 @@
 
 # 🚀 آیا برنامه‌نویسی در سال 2026 هنوز ارزش دارد؟
 
-### 👨‍💻 Sina Banihashem
+### Sina Banihashem
 
 [![Website](https://img.shields.io/badge/Website-devip.ir-blue?style=for-the-badge)](https://devip.ir)
 [![Portfolio](https://img.shields.io/badge/Portfolio-snbix.ir-green?style=for-the-badge)](https://snbix.ir)
@@ -47,7 +47,7 @@
 اگه تو هم فکر می‌کنی که هوش‌مصنوعی قراره جای برنامه‌نویس‌ها رو بگیره، بهتره یه نگاه عمیق‌تر بندازی.
 
 📈 میانگین درآمد برنامه‌نویس‌ها حتی با رشد AI همچنان روند افزایشی داشته.
-
+![My Image](https://guardts.ir/api/files/a538b7f68f18/raw)
 شاید با خودت بگی:
 
 > «کلود یه سایت فروشگاهی رو توی دو دقیقه میزنه!»
