@@ -48,7 +48,7 @@
 
 📈 میانگین درآمد برنامه‌نویس‌ها حتی با رشد AI همچنان روند افزایشی داشته.
 
-<img src="https://s6.uupload.ir/files/screenshot_۲۰۲۶۰۶۰۸_۲۰۱۱۱۱_gallery_0ymn.jpg" alt="My Image" width="600">
+![My Image](./images/Screenshot_۲۰۲۶۰۶۰۸_۲۰۱۱۱۱_Gallery.jpg)
 
 شاید با خودت بگی:
 
